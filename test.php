@@ -5,5 +5,5 @@
  * Date: 2018/04/18
  * Time: 12:41
  */
-phpinfo();
+echo 'test';
 ?>
